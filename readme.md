@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-November 15, 2018
+December 13, 2018
 18:30 - 21:00
 </pre>
 Where:
@@ -22,20 +22,10 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-GELI - Disk encryption in FreeBSD
-Michał Borysiak
-
-OpenBSD Gaming
-Adam Wołk
-
-Hello Mr. Jenkins
-Michał Mróz
-
-Unbound & FreeBSD
-Pablo Carboni
+To be announced
 </pre>
 
-<a href="https://bit.ly/bsd-pl-7">Click to register</a>
+<a href="https://www.meetup.com/pl-PL/Polish-BSD-User-Group/events/mptxlqyxqbrb/">Click to register</a>
 
 See you there!
 
