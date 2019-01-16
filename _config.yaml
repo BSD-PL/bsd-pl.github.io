@@ -7,6 +7,7 @@ logo: "bsdpl-logo.png"
 theme: jekyll-theme-minimal
 
 # Social media.
+slack_url: https://join.slack.com/t/bsd-pl/shared_invite/enQtNTIyMjU4NTUxOTUzLTQwZjMyNTY2OTRhMzZiNGFhOGM3YWU1YmMwYzNlZThjZGY5ZjMwZTZlM2U3NmMyYzA3OWE4MDkxNDk2NGU1OTQ
 mail_url: mailto:meetup@bsd-pl.org
 facebook_url: https://www.facebook.com/pg/The-Polish-BSD-User-Group-2104511872897332
 twitter_url: https://twitter.com/BSD_PL
