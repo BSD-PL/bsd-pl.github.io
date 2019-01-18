@@ -15,7 +15,10 @@ Kiedy:
 </pre>
 Gdzie:
 <pre>
-TBA
+Wheel Systems Office
+
+Aleje Jerozolimskie 178
+Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
