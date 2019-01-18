@@ -15,7 +15,10 @@ January 25, 2019
 </pre>
 Where:
 <pre>
-TBA
+Wheel Systems Office
+
+Aleje Jerozolimskie 178
+Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
