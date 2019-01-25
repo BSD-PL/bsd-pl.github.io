@@ -163,3 +163,9 @@
   date: 2018-12-13
   position: 2
   link: 2018-12-13_2_Aleksander-Kołowski_Testing-with-PyTest.pdf
+
+- author: Michał Borysiak, Miłosz Kaniewski, Jarosław Żurek
+  title: iocage tutorial
+  date: 2019-01-25
+  position: 0
+  link: 2019_01_25_0_iocage.pdf
