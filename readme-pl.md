@@ -22,7 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Sesja treningowa: iocage
+TBA
 
 </pre>
 
