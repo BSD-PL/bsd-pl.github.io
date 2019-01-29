@@ -22,7 +22,7 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Training session: iocage
+TBA
 
 </pre>
 
