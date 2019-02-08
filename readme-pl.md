@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-25 stycznia 2019 r.
+28 luty 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
