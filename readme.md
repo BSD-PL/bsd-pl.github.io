@@ -22,8 +22,11 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-TBA
+Kernel crash dump features.
+Konrad Witaszczyk
 
+Tuning systemu operacyjnego dla baz danych.
+Alicja Kucharczyk
 </pre>
 
 <a href="/registration">Click to register</a>
