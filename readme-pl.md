@@ -25,6 +25,9 @@ O czym:
 Kernel crash dump features.
 Konrad Witaszczyk
 
+Look up to the skies and see (cloud-init)
+Mariusz Wołoszyn
+
 Tuning systemu operacyjnego dla baz danych.
 Alicja Kucharczyk
 </pre>
