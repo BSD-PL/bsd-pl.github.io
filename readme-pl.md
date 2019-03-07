@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-28 luty 2019 r.
+14 marca 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -22,14 +22,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Kernel crash dump features.
-Konrad Witaszczyk
+Czy da się zrobić Olimpiadę Informatyczną na BSD?
+Michał Sidor
 
-Look up to the skies and see (cloud-init).
-Mariusz Wołoszyn
-
-Tuning systemu operacyjnego dla baz danych.
-Alicja Kucharczyk
+KARL - jak płatek śniegu, unikalny kernel.
+Adam Wołk
 </pre>
 
 <a href="/registration">Rejestracja</a>

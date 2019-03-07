@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-February 28, 2019
+March 14, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -22,14 +22,11 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Kernel crash dump features.
-Konrad Witaszczyk
+Can you run the Olympiad in Informatics on BSD?
+Michał Sidor
 
-Look up to the skies and see (cloud-init).
-Mariusz Wołoszyn
-
-Tuning systemu operacyjnego dla baz danych.
-Alicja Kucharczyk
+KARL - like a snowflake, a unique kernel.
+Adam Wołk
 </pre>
 
 <a href="/registration">Click to register</a>

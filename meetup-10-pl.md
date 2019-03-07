@@ -1,7 +1,7 @@
 ---
-title: "Polish BSD User Group: Meetup #9"
+title: "Polish BSD User Group: Meetup #10"
 layout: meetup
-permalink: /meetups/9
+permalink: /meetups/10
 ---
 Kiedy:
 <pre>
