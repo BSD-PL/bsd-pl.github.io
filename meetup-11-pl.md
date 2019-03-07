@@ -22,4 +22,7 @@ Michał Sidor
 
 KARL - jak płatek śniegu, unikalny kernel.
 Adam Wołk
+
+Odkrywanie Bitcoina.
+Tomasz Jadachowski
 </pre>

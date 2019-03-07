@@ -22,4 +22,7 @@ Michał Sidor
 
 KARL - like a snowflake, a unique kernel.
 Adam Wołk
+
+Exploring Bitcoin.
+Tomasz Jadachowski
 </pre>
