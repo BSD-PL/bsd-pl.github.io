@@ -182,3 +182,9 @@
   position: 1
   external: true
   link: https://docs.google.com/presentation/d/1RkRFtigUt8F8Wzhb7ulTyYxm32ntJBOY1raQULoFcBU
+
+- author: Alicja Kucharczyk
+  title: Tuning systemu operacyjnego dla baz danych
+  date: 2019-02-28
+  position: 3
+  link: 2019-02-28_2_Alicja-Kucharczyk_Tuning-systemu-operacyjnego-dla-baz-danych.pdf
