@@ -188,3 +188,22 @@
   date: 2019-02-28
   position: 3
   link: 2019-02-28_2_Alicja-Kucharczyk_Tuning-systemu-operacyjnego-dla-baz-danych.pdf
+
+- author: Michał Sidor
+  title: Can you run the Olympiad in Informatics on BSD?
+  date: 2019-03-14
+  position: 0
+  external: true
+  link: https://slides.com/michcioperz/sio2bsd#/
+
+- author: Adam Wołk
+  title: KARL - like a snowflake, a unique kernel
+  date: 2019-03-14
+  position: 1
+  link: 2019-03-14_Adam-Wołk_KARL_-_like_a_snowflake_a_unique_kernel.pdf
+
+- author: Tomasz Jadachowski
+  title: Exploring Bitcoin
+  date: 2019-03-14
+  position: 2
+  link: 2019-03-14_Tomasz-Jadachowski_Exploring-Bitcoin.pdf
