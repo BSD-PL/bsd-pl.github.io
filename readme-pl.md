@@ -10,26 +10,26 @@ permalink: /
 
 Kiedy:
 <pre>
-14 marca 2019 r.
+25 kwietnia 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
-Wheel Systems Office
+Fudo Security Office
 
 Aleje Jerozolimskie 178
 Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Czy da się zrobić Olimpiadę Informatyczną na BSD?
-Michał Sidor
+Zdobywanie skarbu Smauga, czyli podróż do FreeBSD... bez powrotu
+Michał Kilijanek
 
-KARL - jak płatek śniegu, unikalny kernel.
-Adam Wołk
+Błąd w Power DNS (CVE-2019-3871)
+Grzegorz Brzeski
 
-Odkrywanie Bitcoina.
-Tomasz Jadachowski
+Od X-ów do Waylanda / from X to Wayland
+Wojciech Dubiel
 </pre>
 
 <a href="/registration">Rejestracja</a>

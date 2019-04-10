@@ -10,26 +10,26 @@ permalink: /en
 
 When:
 <pre>
-March 14, 2019
+April 25, 2019
 18:15 - 21:00
 </pre>
 Where:
 <pre>
-Wheel Systems Office
+Fudo Security Office
 
 Aleje Jerozolimskie 178
 Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Can you run the Olympiad in Informatics on BSD?
-Michał Sidor
+Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
+Michał Kilijanek
 
-KARL - like a snowflake, a unique kernel.
-Adam Wołk
+PowerDNS Authoritative Server denial of service (CVE-2019-3871)
+Grzegorz Brzeski
 
-Exploring Bitcoin.
-Tomasz Jadachowski
+From X to Wayland
+Wojciech Dubiel
 </pre>
 
 <a href="/registration">Click to register</a>
