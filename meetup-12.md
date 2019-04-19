@@ -22,6 +22,7 @@ Michał Kilijanek
 
 PowerDNS Authoritative Server denial of service (CVE-2019-3871)
 Grzegorz Brzeski
+Adam Dobrawy
 
 From X to Wayland
 Wojciech Dubiel

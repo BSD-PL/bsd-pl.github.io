@@ -27,6 +27,7 @@ Michał Kilijanek
 
 Błąd w Power DNS (CVE-2019-3871)
 Grzegorz Brzeski
+Adam Dobrawy
 
 Od X-ów do Waylanda
 Wojciech Dubiel
