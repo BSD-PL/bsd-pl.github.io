@@ -25,12 +25,11 @@ What:
 Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
 Michał Kilijanek
 
-PowerDNS Authoritative Server denial of service (CVE-2019-3871)
-Grzegorz Brzeski
-Adam Dobrawy
+Cloud computing, OpenNebula and FreeBSD
+Bartek Zięba
 
-From X to Wayland
-Wojciech Dubiel
+Started with Syslog, ended up with Big Data
+Kamil Czekirda
 </pre>
 
 <a href="/registration">Click to register</a>

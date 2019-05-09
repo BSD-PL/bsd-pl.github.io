@@ -20,9 +20,9 @@ What:
 Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
 Michał Kilijanek
 
-Chmura Obliczeniowa, OpenNebula i FreeBSD
+Cloud computing, OpenNebula and FreeBSD
 Bartek Zięba
 
-Od sysloga do Big Data
+Started with Syslog, ended up with Big Data
 Kamil Czekirda
 </pre>

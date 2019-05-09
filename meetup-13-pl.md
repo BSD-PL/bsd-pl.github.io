@@ -20,9 +20,9 @@ O czym:
 Zdobywanie skarbu Smauga, czyli podróż do FreeBSD... bez powrotu
 Michał Kilijanek
 
-Cloud computing, OpenNebula and FreeBSD
+Chmura Obliczeniowa, OpenNebula i FreeBSD
 Bartek Zięba
 
-Started with Syslog, ended up with Big Data
+Od sysloga do Big Data
 Kamil Czekirda
 </pre>

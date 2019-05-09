@@ -25,12 +25,11 @@ O czym:
 Zdobywanie skarbu Smauga, czyli podróż do FreeBSD... bez powrotu
 Michał Kilijanek
 
-Błąd w Power DNS (CVE-2019-3871)
-Grzegorz Brzeski
-Adam Dobrawy
+Chmura Obliczeniowa, OpenNebula i FreeBSD
+Bartek Zięba
 
-Od X-ów do Waylanda
-Wojciech Dubiel
+Od sysloga do Big Data
+Kamil Czekirda
 </pre>
 
 <a href="/registration">Rejestracja</a>
