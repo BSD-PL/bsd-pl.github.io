@@ -1,5 +1,5 @@
 ---
-title: "Polish BSD User Group: Meetup #5"
+title: "Polish BSD User Group: Meetup #4"
 layout: meetup
 permalink: /meetups/4
 ---
