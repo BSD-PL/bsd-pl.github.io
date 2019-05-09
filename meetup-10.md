@@ -1,7 +1,7 @@
 ---
 title: "Polish BSD User Group: Meetup #10"
 layout: meetup
-permalink: /en/meetups/9
+permalink: /en/meetups/10
 ---
 When:
 <pre>
