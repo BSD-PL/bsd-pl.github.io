@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-25 kwietnia 2019 r.
+13 maja 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:

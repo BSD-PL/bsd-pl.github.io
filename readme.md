@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-April 25, 2019
+May 13, 2019
 18:15 - 21:00
 </pre>
 Where:
