@@ -17,9 +17,6 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
-Michał Kilijanek
-
 PowerDNS Authoritative Server denial of service (CVE-2019-3871)
 Grzegorz Brzeski
 Adam Dobrawy

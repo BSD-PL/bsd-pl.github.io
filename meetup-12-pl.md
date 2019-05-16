@@ -17,9 +17,6 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Zdobywanie skarbu Smauga, czyli podróż do FreeBSD... bez powrotu
-Michał Kilijanek
-
 Błąd w Power DNS (CVE-2019-3871)
 Grzegorz Brzeski
 Adam Dobrawy
