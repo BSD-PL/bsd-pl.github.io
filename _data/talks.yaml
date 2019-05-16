@@ -207,3 +207,21 @@
   date: 2019-03-14
   position: 2
   link: 2019-03-14_Tomasz-Jadachowski_Exploring-Bitcoin.pdf
+
+- author: Michał Kilijanek
+  title: Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
+  date: 2019-05-13
+  position: 0
+  link: 2019-05-13_0_Michal-Kilijanek_Getting_Smaugs_Treasure_or_Towards_FreeBSD_and_Never_Go_Back_Again.pdf
+
+- author: Bartek Zięba
+  title: Cloud computing, OpenNebula and FreeBSD
+  date: 2019-05-13
+  position: 1
+  link: 2019-05-13_1_Bartek-Zieba-Cloud_computing_OpenNebula_and_FreeBSD.pdf
+
+- author: Kamil Czekirda
+  title: Started with Syslog, ended up with Big Data
+  date: 2019-05-13
+  position: 2
+  link: 2019-05-13_2_Kamil-Czekirda-Started_with_Syslog_ended_up_with_Big_Data.pdf
