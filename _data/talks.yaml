@@ -207,6 +207,19 @@
   position: 2
   link: 2019-03-14_Tomasz-Jadachowski_Exploring-Bitcoin.pdf
 
+- author: Gregory Brzeski, Adam Dobrawy
+  title: CVE-2019-3871
+  date: 2019-04-25
+  position: 0
+  external: true
+  link: https://hackmd.io/p/B1MY7zL9E
+
+- author: Wojciech Dubiel
+  title: From X to Wayland
+  date: 2019-04-25
+  position: 1
+  link: 2019-04-25_1_Wojciech-Dubiel_From_X_to_Wayland.pdf
+
 - author: Michał Kilijanek
   title: Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
   date: 2019-05-13
