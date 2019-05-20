@@ -142,15 +142,13 @@
   title: Unbound & FreeBSD
   date: 2018-11-15
   position: 3
-  external: true
-  link: https://docs.google.com/presentation/d/11ykEeoHluKqNWzqLd_NVueqCU28u0Jl8r_EnSuJQrv8/edit#slide=id.p
+  link: 2018-11-15_3_Pablo-Carboni_Unbound_and_FreeBSD.pdf
 
 - author: Kamil Czekirda
   title: FreeNAS on microserver gen8
   date: 2018-12-13
   position: 0
-  external: true
-  link: https://docs.google.com/presentation/d/1C9XMKEed-yZ5MIucixcaXwzlh4sPg_vG2ABMd55iqME/edit#slide=id.p
+  link: 2018-12-13_0_Kamil-Czekirda-FreeNAS_on_microserver_gen8.pdf
 
 - author: Jarosław Żurek
   title: "FreeBSD PAM: programming custom authentication modules"
@@ -180,7 +178,7 @@
   title: Look up to the skies and see
   date: 2019-02-28
   position: 1
-  link: 2019_02_28_1_Mariusz-Woloszyn_Look-up-to-the-skies-and-see.pdf
+  link: 2019-02-28_1_Mariusz-Woloszyn_Look-up-to-the-skies-and-see.pdf
 
 - author: Alicja Kucharczyk
   title: Tuning systemu operacyjnego dla baz danych
