@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-May 13, 2019
+Jun 27, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -22,14 +22,7 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Getting Smaug's Treasure or Towards FreeBSD and... Never Go Back Again
-Michał Kilijanek
-
-Cloud computing, OpenNebula and FreeBSD
-Bartek Zięba
-
-Started with Syslog, ended up with Big Data
-Kamil Czekirda
+TBA
 </pre>
 
 <a href="/registration">Click to register</a>

@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-13 maja 2019 r.
+27 czerwca 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -22,14 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Zdobywanie skarbu Smauga, czyli podróż do FreeBSD... bez powrotu
-Michał Kilijanek
-
-Chmura Obliczeniowa, OpenNebula i FreeBSD
-Bartek Zięba
-
-Od sysloga do Big Data
-Kamil Czekirda
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
