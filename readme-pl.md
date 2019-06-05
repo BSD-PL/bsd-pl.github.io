@@ -22,7 +22,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+Philip Buehler
+OpenBSD / Packer / Vagrant
+
+Mariusz Zaborski
+BSDCan 2019 - recap
 </pre>
 
 <a href="/registration">Rejestracja</a>
