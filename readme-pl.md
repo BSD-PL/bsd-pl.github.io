@@ -22,7 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Philip Buehler
+Philipp Buehler
 OpenBSD / Packer / Vagrant
 
 Mariusz Zaborski
