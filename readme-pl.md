@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-27 czerwca 2019 r.
+24 lipca 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -22,11 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Philipp Buehler
-OpenBSD / Packer / Vagrant
-
-Mariusz Zaborski
-BSDCan 2019 - recap
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>

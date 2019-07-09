@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-Jun 27, 2019
+Jul 24, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -22,11 +22,7 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-Philipp Buehler
-OpenBSD / Packer / Vagrant
-
-Mariusz Zaborski
-BSDCan 2019 - recap
+TBA
 </pre>
 
 <a href="/registration">Click to register</a>
