@@ -21,9 +21,19 @@ Aleje Jerozolimskie 178
 Warszawa
 </pre>
 O czym:
-<pre style="white-space: pre-wrap;">
-TBA
-</pre>
+
+**BSD news**
+
+Mariusz Zaborski & Michał Mróz
+
+**Otoro - tłusty tuńczyk w akwarium portów OpenBSD**
+
+Adam Wołk
+
+**Idiotoodporność aplikacji - dodatek czy wymóg?**
+
+Piotr Jasiek
+
 
 <a href="/registration">Rejestracja</a>
 
