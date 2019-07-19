@@ -21,9 +21,19 @@ Aleje Jerozolimskie 178
 Warsaw
 </pre>
 What:
-<pre style="white-space: pre-wrap;">
-TBA
-</pre>
+
+**BSD news**
+
+Mariusz Zaborski & Michał Mróz
+
+**Otoro - fat tuna in the OpenBSD ports fish-tank**
+
+Adam Wołk
+
+**Apps Idiotproofing - addition or requirement**
+
+Piotr Jasiek
+
 
 <a href="/registration">Click to register</a>
 
