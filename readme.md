@@ -22,18 +22,17 @@ Warsaw
 </pre>
 What:
 
-**BSD news**
-
+<pre style="white-space: pre-wrap;">
+BSD news
 Mariusz Zaborski & Michał Mróz
 
-**Otoro - fat tuna in the OpenBSD ports fish-tank**
-
+Otoro - fat tuna in the OpenBSD ports fish-tank
 Adam Wołk
 
-**Apps Idiotproofing - addition or requirement**
-
+Apps Idiotproofing - addition or requirement
 Piotr Jasiek
 
+</pre>
 
 <a href="/registration">Click to register</a>
 
