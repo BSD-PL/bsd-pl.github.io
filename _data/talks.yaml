@@ -235,3 +235,15 @@
   date: 2019-05-13
   position: 2
   link: 2019-05-13_2_Kamil-Czekirda-Started_with_Syslog_ended_up_with_Big_Data.pdf
+
+- author: Philipp Buehler
+  title: OpenBSD / Packer / Vagrant
+  date: 2019-06-27
+  position: 1
+  link: 2019-06-27_01_Philipp-Buehler-OpenBSD-Packer-Vagrant.pdf
+
+- author: Mariusz Zaborski
+  title: BSDCan 2019 - recap
+  date: 2019-06-27
+  position: 2
+  link: 2019-06-27_02_Mariusz-Zaborski-BSDCan2019_recap.pdf
