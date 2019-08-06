@@ -247,3 +247,21 @@
   date: 2019-06-27
   position: 2
   link: 2019-06-27_02_Mariusz-Zaborski-BSDCan2019_recap.pdf
+
+- author: Mariusz Zaborski
+  title: BSD News
+  date: 2019-07-24
+  position: 0
+  link: 2019-07-24_0_Mariusz-Zaborski-BSD_News.pdf
+
+- author: Adam Wołk
+  title: Otoro - tłusty tuńczyk w akwarium portów OpenBSD
+  date: 2019-07-24
+  position: 1
+  link: 2019-07-24_1_Adam-Wolk_Otoro-2019.pdf
+
+- author: Piotr Jasiek
+  title: Idiotoodporność aplikacji - dodatek czy wymóg?
+  date: 2019-07-24
+  position: 2
+  link: 2019-07-24_2_Piotr-Jasiek_idiotproof.pdf
