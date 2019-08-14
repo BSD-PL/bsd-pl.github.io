@@ -23,7 +23,7 @@ Warszawa
 O czym:
 <pre style="white-space: pre-wrap;">
 BSD news
-Mariusz Zaborski & Michał Mróz
+Mariusz Zaborski
 
 Otoro - tłusty tuńczyk w akwarium portów OpenBSD
 Adam Wołk

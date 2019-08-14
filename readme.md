@@ -24,7 +24,7 @@ What:
 
 <pre style="white-space: pre-wrap;">
 BSD news
-Mariusz Zaborski & Michał Mróz
+Mariusz Zaborski
 
 Otoro - fat tuna in the OpenBSD ports fish-tank
 Adam Wołk
