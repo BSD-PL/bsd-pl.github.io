@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-August 29, 2019
+September 26, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -24,13 +24,13 @@ What:
 
 <pre style="white-space: pre-wrap;">
 BSD news
-Jarosław Żurek
+Miłosz Kaniewski
 
-Manual configuration of X.org server on FreeBSD
-Michał Kilijanek
+Pleroma on FreeBSD
+Michał Sidor
 
-Selenium - introduction
-Marcin Stanilewicz
+Infinite monkey theorem
+Mariusz Wołoszyn
 </pre>
 
 <a href="/registration">Click to register</a>

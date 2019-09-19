@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-29 sierpnia 2019 r.
+26 września 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -23,13 +23,13 @@ Warszawa
 O czym:
 <pre style="white-space: pre-wrap;">
 BSD news
-Jarosław Żurek
+Miłosz Kaniewski
 
-Ręczna konfiguracja serwera X.org na FreeBSD
-Michał Kilijanek
+Pleroma na FreeBSD
+Michał Sidor
 
-Selenium - wprowadzenie
-Marcin Stanilewicz
+Nieskończona liczba małp
+Mariusz Wołoszyn
 </pre>
 
 <a href="/registration">Rejestracja</a>
