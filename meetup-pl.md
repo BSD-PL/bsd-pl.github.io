@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-26 września 2019 r.
+10 października 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -22,14 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-BSD news
-Miłosz Kaniewski
-
-Pleroma na FreeBSD
-Michał Sidor
-
-Nieskończona liczba małp
-Mariusz Wołoszyn
+TBD
 </pre>
 
 <a href="/registration">Rejestracja</a>

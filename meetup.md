@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-September 26, 2019
+October 10, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -23,14 +23,7 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-BSD news
-Miłosz Kaniewski
-
-Pleroma on FreeBSD
-Michał Sidor
-
-Infinite monkey theorem
-Mariusz Wołoszyn
+TBD
 </pre>
 
 <a href="/registration">Click to register</a>
