@@ -23,7 +23,11 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-TBD
+Rump Anykernel
+Mateusz Kocielski
+
+Capability-aware memory copying between address spaces
+Konrad Witaszczyk
 </pre>
 
 <a href="/registration">Click to register</a>
