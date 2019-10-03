@@ -277,3 +277,21 @@
   date: 2019-08-29
   position: 1
   link: 2019-08-29_1_Marcin-Stanilewicz_Selenium-wprowadzenie.pdf
+
+- author: Miłosz Kaniewski
+  title: BSD News
+  date: 2019-09-26
+  position: 0
+  link: 2019-09-26_0_Milosz-Kaniewski-BSD-News-2019-09.pdf
+
+- author: Michał Sidor
+  title: Pleroma na FreeBSD
+  date: 2019-09-26
+  position: 1
+  link: 2019-09-26_1_Michal-Sidor_Pleroma-FreeBSD.pdf
+
+- author: Mariusz Wołoszyn
+  title: Infinite monkey theorem
+  date: 2019-09-26
+  position: 2
+  link: 2019-09-26_2_Mariusz-Woloszyn_Infinite-monkey-theorem.pdf
