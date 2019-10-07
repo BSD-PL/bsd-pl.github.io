@@ -22,11 +22,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Rump Anykernel
-Mateusz Kocielski
-
 Capability-aware memory copying between address spaces
 Konrad Witaszczyk
+
+Rump Anykernel
+Mateusz Kocielski
 </pre>
 
 <a href="/registration">Rejestracja</a>
