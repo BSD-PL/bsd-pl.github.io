@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-10 października 2019 r.
+7 listopada 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -22,11 +22,14 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Capability-aware memory copying between address spaces
-Konrad Witaszczyk
+BSD News
+Adam Wołk
 
-Rump Anykernel
-Mateusz Kocielski
+FreeBSD desktop. Jak „bezboleśnie” zacząć przygodę z FreeBSD
+Rafał Cichocki
+
+Quicksort Improvements - 58 Years Later
+Konrad Witaszczyk
 </pre>
 
 <a href="/registration">Rejestracja</a>
