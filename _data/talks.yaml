@@ -297,7 +297,7 @@
   link: 2019-09-26_2_Mariusz-Woloszyn_Infinite-monkey-theorem.pdf
 
 - author: Konrad Witaszczyk
-  title: Infinite monkey theorem
+  title: Capability-aware memory copying between address spaces
   date: 2019-10-10
   position: 0
   link: 2019-10-10_0_Konrad-Witaszczyk_copyinout.pdf
