@@ -295,3 +295,15 @@
   date: 2019-09-26
   position: 2
   link: 2019-09-26_2_Mariusz-Woloszyn_Infinite-monkey-theorem.pdf
+
+- author: Konrad Witaszczyk
+  title: Infinite monkey theorem
+  date: 2019-10-10
+  position: 0
+  link: 2019-10-10_0_Konrad-Witaszczyk_copyinout.pdf
+
+- author: Mateusz Kocielski
+  title: Rump Anykernel
+  date: 2019-10-10
+  position: 1
+  link: 2019-10-10_1_Mateusz-Kocielski_anykernels_meet_fuzzing.pdf
