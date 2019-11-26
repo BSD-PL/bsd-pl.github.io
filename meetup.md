@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-November 7, 2019
+December 3, 2019
 18:15 - 21:00
 </pre>
 Where:
@@ -23,14 +23,8 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-BSD News
-Adam Wołk
-
-FreeBSD desktop. Painless introduction
-Rafał Cichocki
-
-Quicksort Improvements - 58 Years Later
-Konrad Witaszczyk
+Install Fest BSD
+Adam Wołk, Konrad Witaszczyk, Mariusz Zaborski
 </pre>
 
 <a href="/registration">Click to register</a>
