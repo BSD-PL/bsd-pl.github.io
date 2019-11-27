@@ -23,7 +23,7 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-Install Fest BSD
+BSD Survival Guide
 Adam Wołk, Konrad Witaszczyk, Mariusz Zaborski
 </pre>
 
