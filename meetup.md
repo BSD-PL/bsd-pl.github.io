@@ -10,8 +10,7 @@ permalink: /en
 
 When:
 <pre>
-December 3, 2019
-18:15 - 21:00
+TBA
 </pre>
 Where:
 <pre>
@@ -23,8 +22,7 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-BSD Survival Guide
-Adam Wołk, Konrad Witaszczyk, Mariusz Zaborski
+TBA
 </pre>
 
 <a href="/registration">Click to register</a>
