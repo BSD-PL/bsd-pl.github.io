@@ -10,7 +10,8 @@ permalink: /
 
 Kiedy:
 <pre>
-TBA
+14 stycznia 2020 r.
+18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
