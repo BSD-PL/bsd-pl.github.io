@@ -23,7 +23,14 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-TBA
+BSD News
+Michał Borysiak
+
+X.org server configuration in FreeBSD
+Michał Kilijanek
+
+CHERI capabilities in C
+Konrad Witaszczyk
 </pre>
 
 <a href="/registration">Click to register</a>
