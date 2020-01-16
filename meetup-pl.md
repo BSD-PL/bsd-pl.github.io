@@ -10,8 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-14 stycznia 2020 r.
-18:15 - 21:00
+TBA
 </pre>
 Gdzie:
 <pre>
@@ -22,14 +21,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-BSD News
-Michał Borysiak
-
-Konfiguracja serwera X.org w systemie FreeBSD
-Michał Kilijanek
-
-CHERI capabilities in C
-Konrad Witaszczyk
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>

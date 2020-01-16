@@ -10,8 +10,7 @@ permalink: /en
 
 When:
 <pre>
-January 14, 2020
-18:15 - 21:00
+TBA
 </pre>
 Where:
 <pre>
@@ -23,14 +22,7 @@ Warsaw
 What:
 
 <pre style="white-space: pre-wrap;">
-BSD News
-Michał Borysiak
-
-X.org server configuration in FreeBSD
-Michał Kilijanek
-
-CHERI capabilities in C
-Konrad Witaszczyk
+TBA
 </pre>
 
 <a href="/registration">Click to register</a>
