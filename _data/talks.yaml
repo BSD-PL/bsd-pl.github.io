@@ -331,3 +331,21 @@
   date: 2019-12-03
   position: 0
   link: 2019-12-03_0_Adam-Wolk-Konrad-Witaszczyk-Mariusz-Zaborski_BSD-Survival-Guide.pdf
+
+- author: Michał Borysiak
+  title: BSD News
+  date: 2020-01-14
+  position: 0
+  link: 2020-01-14_0_Michal-Borysiak_BSD-News.pdf
+
+- author: Michał Kilijanek
+  title: X.org server configuration in FreeBSD
+  date: 2020-01-14
+  position: 1
+  link: 2020-01-14_1_Michal-Kilijanek_Xorg-configuration.pdf
+
+- author: Konrad Witaszczyk
+  title: CHERI capabilities in C
+  date: 2020-01-14
+  position: 2
+  link: 2020-01-14_2_Konrad-Witaszczyk_CHERI-capabilities-in-C.pdf
