@@ -20,7 +20,6 @@ Aleje Jerozolimskie 178
 Warsaw
 </pre>
 What:
-
 <pre style="white-space: pre-wrap;">
 TBA
 </pre>
