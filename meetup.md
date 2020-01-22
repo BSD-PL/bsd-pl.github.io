@@ -10,7 +10,8 @@ permalink: /en
 
 When:
 <pre>
-TBA
+February 11, 2020
+18:15 - 21:00
 </pre>
 Where:
 <pre>
