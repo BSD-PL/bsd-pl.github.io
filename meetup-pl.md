@@ -22,7 +22,14 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+FreeBSD Enterprise Storage
+Sławomir Wojciech Wojtczak
+
+Traversing the AST with Clang
+Konrad Witaszczyk
+
+IP BOX - czyli jak płacić 5% podatku dochodowego
+Kamil Czekirda
 </pre>
 
 <a href="/registration">Rejestracja</a>
