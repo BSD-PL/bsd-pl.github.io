@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-February 11, 2020
+March 11, 2020
 18:15 - 21:00
 </pre>
 Where:
@@ -22,14 +22,14 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-FreeBSD Enterprise Storage
-Sławomir Wojciech Wojtczak
-
-Traversing the AST with Clang
+BSD News
 Konrad Witaszczyk
 
-IP BOX - czyli jak płacić 5% podatku dochodowego
-Kamil Czekirda
+FreeBSD dependency management: nightmare or benefaction?
+Jarosław Żurek
+
+A nightmare on systemd 3.0 street
+Krzysztof Staniorowski
 </pre>
 
 <a href="/registration">Click to register</a>
