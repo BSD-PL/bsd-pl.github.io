@@ -8,11 +8,15 @@ permalink: /
 
 <h1>Najbliższe spotkanie</h1>
 
+<p style="color: red; font-weight: bold;">
+W związku z aktualną sytuacją dotyczącą rozprzestrzeniania się wirusa
+SARS-CoV-2 spotkanie, które miało odbyć się 11 marca 2020 roku, zostało
+odwołane.
+</p>
+
 Kiedy:
 <pre>
-W związku z aktualną sytuacją dotyczącą rozprzestrzeniania się wirusa
-SARS-CoV-2 spotkanie, które miało odbyć się 11 marca 2020 roku zostało
-odwołane.
+TBD
 </pre>
 Gdzie:
 <pre>
