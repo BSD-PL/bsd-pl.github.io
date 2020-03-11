@@ -10,26 +10,15 @@ permalink: /en
 
 When:
 <pre>
-March 11, 2020
-18:15 - 21:00
+TBD
 </pre>
 Where:
 <pre>
-Fudo Security Office
-
-Aleje Jerozolimskie 178
-Warsaw
+TBD
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-BSD News
-Konrad Witaszczyk
-
-FreeBSD dependency management: nightmare or benefaction?
-Jarosław Żurek
-
-A nightmare on systemd 3.0 street
-Krzysztof Staniorowski
+TBD
 </pre>
 
 <a href="/registration">Click to register</a>

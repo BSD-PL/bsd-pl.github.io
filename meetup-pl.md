@@ -10,26 +10,17 @@ permalink: /
 
 Kiedy:
 <pre>
-11 marca 2020 r.
-18:15 - 21:00
+W związku z aktualną sytuacją dotyczącą rozprzestrzeniania się wirusa
+SARS-CoV-2 spotkanie, które miało odbyć się 11 marca 2020 roku zostało
+odwołane.
 </pre>
 Gdzie:
 <pre>
-Fudo Security Office
-
-Aleje Jerozolimskie 178
-Warszawa
+TBD
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-BSD News
-Konrad Witaszczyk
-
-Zarządzanie zależnościami we FreeBSD: zmora czy dobrodziejstwo?
-Jarosław Żurek
-
-Koszmar z ulicy systemd 3.0
-Krzysztof Staniorowski
+TBD
 </pre>
 
 <a href="/registration">Rejestracja</a>
